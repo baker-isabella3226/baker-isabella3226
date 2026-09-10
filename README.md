@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Isabella (@baker-isabella3226)
 
-<!--
-**baker-isabella3226/baker-isabella3226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build low-level systems tools and run experiments with WebAssembly. Most of my time is spent in Neovim writing Rust or debugging Linux internals.
 
-Here are some ideas to get you started:
+#### What I'm working on
+- Custom CLI utilities and system monitors in Rust
+- Digging into WebAssembly runtimes (Wasmtime, WASI)
+- C hobby projects and memory profiling on Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Core tools
+`Rust` `C` `Linux` `Git` `WebAssembly` `GDB` `Neovim`
+
+#### Reach out
+- Email: `isabella.baker.dev@proton.me`
+- Open an issue or PR on any of my public repos
